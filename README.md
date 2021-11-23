@@ -1,2 +1,2 @@
-# notgayrealms.github.io
-SWF hosting for notgayrealms
+# swf hosting for pserver
+SWF hosting for havoc
